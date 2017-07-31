@@ -1,2 +1,10 @@
 # Bite-Android-Project
-A simple android cooking recipe system.
+This android app is a recipe app whih allows you to login in to your app (or have a guest entrance).
+
+You can go through the different categories in the categories screen.
+
+Each category will have its list of recipes.
+
+Each recipe will be dislayed with the instructions and you may like it or not.
+
+The user has an inventory screen where he stores the items that he has bought as well;
